@@ -1,0 +1,16 @@
+body{
+    font-family: 'Work Sans';
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-option ul {
+ display: flex;  
+justify-content: space-around;
+  
+}
+.nav-option ul li {
+    margin-right: 10px;
+    text-decoration: none;
+}
